@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: November 25, 2026
-## Reference Number: SIH-26033
-## Name:
+# Date: 25.11.2026
+## Reference Number: 26011253
+## Name: Sephano Spanklaer
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
